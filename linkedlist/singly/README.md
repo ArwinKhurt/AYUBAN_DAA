@@ -106,7 +106,5 @@ Singly Linked List:
 - Simple structure with minimal overhead.
 - Dynamically grows as elements are added.
 
-## License
-
-This project is open-source and free to use.
-
+## Author
+Name: Arwin Khurt Ayuban
