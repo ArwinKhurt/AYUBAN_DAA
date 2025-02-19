@@ -39,6 +39,8 @@ myHeap.display();
 ```
 
 ## Example Output
+
+https://asciinema.org/a/BpAOMmbZfpy2vXVwEQsCIhr4l
 ```
 Heap after insertions:
 [20, 15, 5, 10]
