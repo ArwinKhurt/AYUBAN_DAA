@@ -98,6 +98,7 @@ list.display();
 
 ## Example Output
 
+https://asciinema.org/a/vwGPZABMNqp07T4N4ovKmPEhT
 ```
 Doubly Linked List:
 10 <-> 20 <-> 30 <-> 40 <-> null
