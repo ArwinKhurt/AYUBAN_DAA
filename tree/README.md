@@ -100,6 +100,6 @@ Inorder traversal of the tree:
 - Inorder traversal outputs the elements in **sorted order**.
 - The insert function maintains the BST structure efficiently.
 
-## License
-This project is open-source and free to use.
+## Author
+Name: Arwin Khurt Ayuban
 
