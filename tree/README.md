@@ -89,6 +89,8 @@ myTree.inorder();
 ```
 
 ## Example Output
+
+https://asciinema.org/a/ZxCXSOXqTx5Ya5qe1zyTS0VBH
 ```
 Inorder traversal of the tree:
 20 30 40 50 60 70 80 
