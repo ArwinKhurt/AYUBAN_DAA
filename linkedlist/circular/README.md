@@ -86,6 +86,8 @@ myList.display();
 ```
 
 ## Example Output
+
+https://asciinema.org/a/H0JAhG6bswVzcb3auF1FYmR8R
 ```
 Circular Linked List:
 10 -> 20 -> 30 -> 40 -> (Back to Head)
