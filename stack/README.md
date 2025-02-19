@@ -4,7 +4,7 @@
 This project provides an implementation of a **Stack** in Java. It allows pushing, popping, and displaying elements in a **Last-In-First-Out (LIFO)** manner.
 
 ## Features
-
+git add README.md
 - Push elements onto the stack
 - Pop elements from the stack
 - Display the stack contents
