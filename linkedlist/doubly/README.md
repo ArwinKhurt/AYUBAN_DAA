@@ -109,7 +109,5 @@ Doubly Linked List:
 - Each node has both `next` and `prev` pointers.
 - The list grows dynamically without predefined size constraints.
 
-## License
-
-This project is open-source and free to use.
-
+## Author
+Name: Arwin Khurt Ayuban
