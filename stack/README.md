@@ -95,6 +95,8 @@ myStack.display();
 ```
 
 ## Example Output
+
+https://asciinema.org/a/vRBbVUqN5TRFea2xxIly6QuUR
 ```
 10 pushed onto stack
 20 pushed onto stack
