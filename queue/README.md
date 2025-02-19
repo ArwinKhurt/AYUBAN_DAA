@@ -101,6 +101,8 @@ myQueue.display();
 ```
 
 ## Example Output
+
+https://asciinema.org/a/omYeQF97bYfDz2tvLDwWVMhPG
 ```
 10 enqueued to queue
 20 enqueued to queue
