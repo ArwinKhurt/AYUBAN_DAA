@@ -76,6 +76,8 @@ myGraph.display();
 
 ## Example Output
 
+https://asciinema.org/a/vRBbVUqN5TRFea2xxIly6QuUR
+
 ```
 Graph representation:
 1 -> [2, 3]
